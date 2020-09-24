@@ -5,7 +5,8 @@ This is a Tic Tac Toe game created using the Python programming language
 Python code
 
 ## How to use?
-Open the file mango.py in your Python text editor
+1. Open the file mango.py in your Python text editor
+2. Run the program
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
